@@ -19,6 +19,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Beringar&theme=highcontrast)](https://git.io/streak-stats)
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 <!--- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Beringar.Beringar)
 
