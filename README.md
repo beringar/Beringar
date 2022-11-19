@@ -27,10 +27,10 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![ChakraUI](https://img.shields.io/badge/-Chakra--UI-black?style=flat-square&logo=Chakra-Ui)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beringar&layout=compact&theme=great-gatsby&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-![Beringar's github stats](https://github-readme-stats.vercel.app/api?username=Beringar&show_icons=true&theme=great-gatsby&hide=stars&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beringar&layout=compact&theme=default&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+![Beringar's github stats](https://github-readme-stats.vercel.app/api?username=Beringar&show_icons=true&theme=default&hide=stars&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Beringar&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Beringar&theme=default)](https://git.io/streak-stats)
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
