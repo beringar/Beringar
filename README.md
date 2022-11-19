@@ -1,4 +1,10 @@
-### Hi there 👋 I'm Berenguer!
+## Hi there, I'm Berenguer! <img src="https://github.com/Beringar/Beringar/raw/main/img/handwave.gif" width="30">
+
+[![Linkedin Badge](https://img.shields.io/badge/-berenguer--pou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berenguer-pou/)](https://www.linkedin.com/in/berenguer-pou/)
+<a href="http://stackoverflow.com" target="_blank"><img src="https://img.shields.io/badge/-berenguer--pou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berenguer-pou/" alt="lkd" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-berenguer.pou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berenguer.pou@gmail.com)](mailto:berenguer.pou@gmail.com)
+
+## ⚡ Technologies
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
