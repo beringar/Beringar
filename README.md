@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
