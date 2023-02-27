@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
+<i>❝In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
