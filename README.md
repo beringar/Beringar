@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  ❞</i>
+<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
