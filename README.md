@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
+<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
