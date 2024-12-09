@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
