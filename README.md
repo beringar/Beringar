@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
