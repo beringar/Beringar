@@ -51,7 +51,7 @@
 
 ### 💻 😄 Techie quote or fun fact of the day:
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--- 
